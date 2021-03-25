@@ -1,2 +1,1 @@
 # K-Digital-Fintech
-SQL
